@@ -44,3 +44,6 @@ async function redesFavoritasMundo() {
 
 redesFavoritasMundo()
 console.log('deu certo');
+async function redesFavoritasMundo() {
+
+}
