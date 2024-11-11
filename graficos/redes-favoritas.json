@@ -9,7 +9,4 @@
   "Telegram": 2.4,
   "FB Messenger": 2.3,
   "LINE": 1.7
-}
-async function redesFavoritasMundo() {
-    const url = 'https://raw.githubusercontent.com/guilhermeonrails/api/main/redes-favoritas.json'
-}
+
