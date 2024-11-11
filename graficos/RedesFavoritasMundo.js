@@ -43,3 +43,4 @@ async function redesFavoritasMundo() {
 }
 
 redesFavoritasMundo()
+console.log('deu certo');
